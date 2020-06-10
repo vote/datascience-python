@@ -59,3 +59,4 @@ dependencies:
   - pysftp==0.2.9
   - requests-toolbelt==0.9.1
   - tensorflow==1.15.2
+  - hubspot-api-client=1.1.0
